@@ -1,0 +1,2 @@
+[console_scripts]
+solar-calendar = solar_calendar.menu:main

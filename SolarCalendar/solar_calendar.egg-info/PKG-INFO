@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: solar-calendar
+Version: 0.1.0
+Requires-Dist: click
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: astropy>=5.0.0
+Requires-Dist: ephem>=4.1.0
+Requires-Dist: pytz>=2021.3
+Requires-Dist: python-dateutil>=2.8.2
+Dynamic: requires-dist
