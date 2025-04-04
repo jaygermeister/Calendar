@@ -1,0 +1,1461 @@
+JAYGERIAN TAROT DECK STRUCTURE
+============================
+
+MAJOR ARCANA (22)
+----------------
+
+0. THE FOOL
+   Element: Ether
+   Constellation: None (Cosmic Space)
+   Sephirah: Keter
+   Planet: Uranus
+   Symbol: ∞
+   Jaygerian: Year Day (March 20)
+   Keywords: Pure potential, cosmic consciousness, infinite possibility
+   Galactic Position: Galactic Center
+   Hebrew Letter: א (Aleph)
+   Body Parts: Pineal gland, crown chakra, entire nervous system
+   Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+   Energy Body: Causal body, Atmic body
+
+1. THE MAGICIAN
+   Element: Fire
+   Constellation: Sagittarius
+   Sephirah: Chokhmah
+   Planet: Mercury
+   Symbol: ⚡
+   Jaygerian: Yule
+   Keywords: Will, skill, manifestation
+   Galactic Position: Galactic Center
+   Hebrew Letter: ב (Bet)
+   Body Parts: Hands, arms, throat, thyroid gland
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Mental body, Causal body
+
+2. THE HIGH PRIESTESS
+   Element: Water
+   Constellation: Pisces
+   Sephirah: Binah
+   Planet: Moon
+   Symbol: ☽
+   Jaygerian: Aurora
+   Keywords: Intuition, mystery, hidden knowledge
+   Galactic Position: Galactic Anticenter
+   Hebrew Letter: ג (Gimel)
+   Body Parts: Breasts, ovaries, uterus, subconscious mind
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Emotional body
+
+3. THE EMPRESS
+   Element: Earth
+   Constellation: Taurus
+   Sephirah: Chesed
+   Planet: Venus
+   Symbol: ♀
+   Jaygerian: Zephyr
+   Keywords: Fertility, abundance, nurturing
+   Galactic Position: Galactic Center
+   Hebrew Letter: ד (Dalet)
+   Body Parts: Womb, breasts, lower back, kidneys
+   Chakras: Heart (Anahata), Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+4. THE EMPEROR
+   Element: Fire
+   Constellation: Aries
+   Sephirah: Gevurah
+   Planet: Mars
+   Symbol: ♂
+   Jaygerian: Blossom
+   Keywords: Authority, structure, leadership
+   Galactic Position: Galactic Center
+   Hebrew Letter: ה (He)
+   Body Parts: Head, face, right brain, adrenal glands
+   Chakras: Crown (Sahasrara), Solar Plexus (Manipura)
+   Energy Body: Mental body
+
+5. THE HIEROPHANT
+   Element: Earth
+   Constellation: Taurus
+   Sephirah: Chesed
+   Planet: Jupiter
+   Symbol: ♃
+   Jaygerian: Zephyr
+   Keywords: Tradition, education, spiritual guidance
+   Galactic Position: Galactic Center
+   Hebrew Letter: ו (Vav)
+   Body Parts: Throat, neck, ears, pituitary gland
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Emotional body
+
+6. THE LOVERS
+   Element: Air
+   Constellation: Gemini
+   Sephirah: Tiphareth
+   Planet: Venus
+   Symbol: ♀
+   Jaygerian: Solis
+   Keywords: Choice, harmony, partnership
+   Galactic Position: Galactic Anticenter
+   Hebrew Letter: ז (Zayin)
+   Body Parts: Heart, lungs, thymus gland, circulatory system
+   Chakras: Heart (Anahata), Solar Plexus (Manipura)
+   Energy Body: Emotional body
+
+7. THE CHARIOT
+   Element: Fire
+   Constellation: Cancer
+   Sephirah: Netzach
+   Planet: Mars
+   Symbol: ♂
+   Jaygerian: Radiance
+   Keywords: Progress, determination, willpower
+   Galactic Position: Galactic Center
+   Hebrew Letter: ח (Chet)
+   Body Parts: Chest, stomach, solar plexus, diaphragm
+   Chakras: Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+8. STRENGTH
+   Element: Fire
+   Constellation: Leo
+   Sephirah: Gevurah
+   Planet: Sun
+   Symbol: ☉
+   Jaygerian: Ember
+   Keywords: Courage, patience, inner power
+   Galactic Position: Galactic Center
+   Hebrew Letter: ט (Tet)
+   Body Parts: Heart, spine, muscles, willpower center
+   Chakras: Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+9. THE HERMIT
+   Element: Earth
+   Constellation: Virgo
+   Sephirah: Yesod
+   Planet: Mercury
+   Symbol: ☿
+   Jaygerian: Harvest
+   Keywords: Wisdom, solitude, inner guidance
+   Galactic Position: Galactic Anticenter
+   Hebrew Letter: י (Yod)
+   Body Parts: Intestines, digestive system, nervous system
+   Chakras: Heart (Anahata), Solar Plexus (Manipura)
+   Energy Body: Emotional body
+
+10. WHEEL OF FORTUNE
+    Element: Air
+    Constellation: Libra
+    Sephirah: Netzach
+    Planet: Jupiter
+    Symbol: ♃
+    Jaygerian: Equinox
+    Keywords: Change, cycles, destiny
+    Galactic Position: Galactic Center
+    Hebrew Letter: כ (Kaf)
+    Body Parts: Joints, knees, lymphatic system, immune system
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+11. JUSTICE
+    Element: Air
+    Constellation: Libra
+    Sephirah: Tiphareth
+    Planet: Venus
+    Symbol: ♀
+    Jaygerian: Equinox
+    Keywords: Balance, truth, fairness
+    Galactic Position: Galactic Anticenter
+    Hebrew Letter: ל (Lamed)
+    Body Parts: Lungs, balance organs, pancreas, endocrine system
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+12. THE HANGED MAN
+    Element: Water
+    Constellation: Pisces
+    Sephirah: Hod
+    Planet: Neptune
+    Symbol: ♆
+    Jaygerian: Eclipse
+    Keywords: Sacrifice, surrender, perspective
+    Galactic Position: Galactic Center
+    Hebrew Letter: מ (Mem)
+    Body Parts: Brain, pineal gland, pituitary gland, nervous system
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+13. DEATH
+    Element: Water
+    Constellation: Scorpius
+    Sephirah: Netzach
+    Planet: Pluto
+    Symbol: ♇
+    Jaygerian: Frost
+    Keywords: Transformation, endings, rebirth
+    Galactic Position: Galactic Center
+    Hebrew Letter: נ (Nun)
+    Body Parts: Reproductive organs, elimination system, transformation center
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+14. TEMPERANCE
+    Element: Fire
+    Constellation: Sagittarius
+    Sephirah: Yesod
+    Planet: Jupiter
+    Symbol: ♃
+    Jaygerian: Yule
+    Keywords: Balance, moderation, healing
+    Galactic Position: Galactic Anticenter
+    Hebrew Letter: ס (Samekh)
+    Body Parts: Liver, gallbladder, metabolic system, balance center
+    Chakras: Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+15. THE DEVIL
+    Element: Earth
+    Constellation: Capricornus
+    Sephirah: Hod
+    Planet: Saturn
+    Symbol: ♄
+    Jaygerian: Hearth
+    Keywords: Materialism, bondage, shadow self
+    Galactic Position: Galactic Center
+    Hebrew Letter: ע (Ayin)
+    Body Parts: Bones, teeth, skin, material body
+    Chakras: Root (Muladhara), Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+16. THE TOWER
+    Element: Fire
+    Constellation: Ophiuchus
+    Sephirah: Gevurah
+    Planet: Mars
+    Symbol: ♂
+    Jaygerian: Frost
+    Keywords: Sudden change, upheaval, revelation
+    Galactic Position: Galactic Center
+    Hebrew Letter: פ (Pe)
+    Body Parts: Nervous system, spine, transformation points
+    Chakras: Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+17. THE STAR
+    Element: Ether
+    Constellation: Aquarius
+    Sephirah: Netzach
+    Planet: Uranus
+    Symbol: ⛢
+    Jaygerian: Twilight
+    Keywords: Hope, inspiration, cosmic guidance
+    Galactic Position: Galactic Anticenter
+    Hebrew Letter: צ (Tzaddi)
+    Body Parts: Ankles, circulatory system, etheric body
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+18. THE MOON
+    Element: Water
+    Constellation: Pisces
+    Sephirah: Yesod
+    Planet: Moon
+    Symbol: ☽
+    Jaygerian: Eclipse
+    Keywords: Illusion, intuition, subconscious
+    Galactic Position: Galactic Center
+    Hebrew Letter: ק (Qof)
+    Body Parts: Stomach, breasts, female reproductive system, subconscious mind
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+19. THE SUN
+    Element: Fire
+    Constellation: Leo
+    Sephirah: Tiphareth
+    Planet: Sun
+    Symbol: ☉
+    Jaygerian: Ember
+    Keywords: Joy, vitality, enlightenment
+    Galactic Position: Galactic Center
+    Hebrew Letter: ר (Resh)
+    Body Parts: Heart, spine, solar plexus, vital force
+    Chakras: Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+20. JUDGMENT
+    Element: Ether
+    Constellation: Aquarius
+    Sephirah: Malkuth
+    Planet: Pluto
+    Symbol: ♇
+    Jaygerian: Twilight
+    Keywords: Awakening, renewal, cosmic call
+    Galactic Position: Galactic Anticenter
+    Hebrew Letter: ש (Shin)
+    Body Parts: Feet, kundalini, transformation centers
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Emotional body
+
+21. THE WORLD
+    Element: Ether
+    Constellation: None (Cosmic Space)
+    Sephirah: Malkuth
+    Planet: Saturn
+    Symbol: ♄
+    Jaygerian: Year End (March 19)
+    Keywords: Completion, integration, wholeness
+    Galactic Position: Galactic Center
+    Hebrew Letter: ת (Tav)
+    Body Parts: Entire physical body, integration points, chakras
+    Chakras: Heart (Anahata), Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+MINOR ARCANA AND SEASONAL CARDS (73)
+----------------------------------
+
+STARS (ETHER) - 15 Cards
+------------------------
+
+Minor Arcana (10):
+1. ACE OF STARS
+   Primary Element: Ether
+   Secondary Element: None
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Keter
+   Keywords: Source, origin, cosmic seed
+   Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+   Energy Body: Causal body, Atmic body
+   Jaygerian: Frost 25-30, Yule 1-5
+
+2. TWO OF STARS
+   Primary Element: Ether
+   Secondary Element: Fire
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Chokhmah
+   Keywords: Cosmic transformation, healing wisdom
+   Chakras: Crown (Sahasrara), Third Eye (Ajna)
+   Energy Body: Causal body, Mental body
+   Jaygerian: Yule 6-11
+
+3. THREE OF STARS
+   Primary Element: Ether
+   Secondary Element: Water
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Binah
+   Keywords: Spiritual alchemy, divine healing
+   Chakras: Crown (Sahasrara), Heart (Anahata)
+   Energy Body: Causal body, Emotional body
+   Jaygerian: Yule 12-17
+
+4. FOUR OF STARS
+   Primary Element: Ether
+   Secondary Element: Earth
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Chesed
+   Keywords: Material transcendence, grounding spirit
+   Chakras: Crown (Sahasrara), Root (Muladhara)
+   Energy Body: Causal body, Physical body
+   Jaygerian: Yule 18-23
+
+5. FIVE OF STARS
+   Primary Element: Ether
+   Secondary Element: Air
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Gevurah
+   Keywords: Mental transcendence, cosmic wisdom
+   Chakras: Crown (Sahasrara), Throat (Vishuddha)
+   Energy Body: Causal body, Mental body
+   Jaygerian: Yule 24-28, Hearth 1-2
+
+6. SIX OF STARS
+   Primary Element: Ether
+   Secondary Element: Fire
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Tiphareth
+   Keywords: Spiritual balance, divine harmony
+   Chakras: Crown (Sahasrara), Solar Plexus (Manipura)
+   Energy Body: Causal body, Physical body
+   Jaygerian: Hearth 3-8
+
+7. SEVEN OF STARS
+   Primary Element: Ether
+   Secondary Element: Water
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Netzach
+   Keywords: Emotional transcendence, cosmic love
+   Chakras: Crown (Sahasrara), Heart (Anahata)
+   Energy Body: Causal body, Emotional body
+   Jaygerian: Hearth 9-14
+
+8. EIGHT OF STARS
+   Primary Element: Ether
+   Secondary Element: Earth
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Hod
+   Keywords: Material wisdom, spiritual grounding
+   Chakras: Crown (Sahasrara), Root (Muladhara)
+   Energy Body: Causal body, Physical body
+   Jaygerian: Hearth 15-20
+
+9. NINE OF STARS
+   Primary Element: Ether
+   Secondary Element: Air
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Yesod
+   Keywords: Mental mastery, cosmic knowledge
+   Chakras: Crown (Sahasrara), Third Eye (Ajna)
+   Energy Body: Causal body, Mental body
+   Jaygerian: Hearth 21-26
+
+10. TEN OF STARS
+   Primary Element: Ether
+   Secondary Element: Fire
+   Galactic Position: Galactic Center
+   Constellation: Ophiuchus
+   Sephirah: Malkuth
+   Keywords: Earthly transcendence, divine manifestation
+   Chakras: Crown (Sahasrara), Root (Muladhara)
+   Energy Body: Causal body, Physical body
+   Jaygerian: Hearth 27-28, Twilight 1-4
+
+Associated Major Arcana (3):
+1. The Fool (Pure potential, cosmic consciousness)
+   Jaygerian: Year Day (March 20)
+
+2. The World (Cosmic unity, completion)
+   Jaygerian: Year End (March 19)
+
+3. Judgment (Universal transformation)
+   Jaygerian: Twilight 5-10
+
+Seasonal Cards (2):
+1. WINTER SOLSTICE (YULE)
+   Element: Ether
+   Date: December 21
+   Jaygerian: Yule 1
+   Keywords: Cosmic rebirth, longest night, spiritual renewal
+   Chakras: Crown (Sahasrara), Root (Muladhara)
+   Energy Body: Causal body
+   Special Properties: Gateway between years, cosmic alignment
+
+2. SAMHAIN
+   Element: Ether
+   Date: November 1
+   Jaygerian: Frost 15
+   Keywords: Spirit gateway, ancestor communion, veil thinning
+   Chakras: Crown (Sahasrara), Third Eye (Ajna)
+   Energy Body: Causal body
+   Special Properties: Spiritual gateway, ancestor connection
+
+WANDS (FIRE) - 15 Cards
+----------------------
+
+Minor Arcana (10):
+1. ACE OF WANDS
+   Primary Element: Fire
+   Secondary Element: Fire
+   Constellation: Aries
+   Period: April 19 - May 13
+   Sephirah: Chokhmah
+   Planet: Mars
+   Jaygerian: Blossom 1-5
+   Keywords: Initial spark, inspiration, potential
+   Chakras: Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+2. TWO OF WANDS
+   Primary Element: Fire
+   Secondary Element: Ether
+   Constellation: Aries
+   Period: April 19 - May 13
+   Sephirah: Binah
+   Planet: Mars
+   Jaygerian: Blossom 6-11
+   Keywords: Planning, future vision, potential
+   Chakras: Solar Plexus (Manipura), Third Eye (Ajna)
+   Energy Body: Physical body, Mental body
+
+3. THREE OF WANDS
+   Primary Element: Fire
+   Secondary Element: Air
+   Constellation: Aries
+   Period: April 19 - May 13
+   Sephirah: Chesed
+   Planet: Mars
+   Jaygerian: Blossom 12-17
+   Keywords: Expansion, growth, exploration
+   Chakras: Solar Plexus (Manipura), Throat (Vishuddha)
+   Energy Body: Physical body, Mental body
+
+4. FOUR OF WANDS
+   Primary Element: Fire
+   Secondary Element: Earth
+   Constellation: Leo
+   Period: July 23 - August 22
+   Sephirah: Gevurah
+   Planet: Sun
+   Jaygerian: Blossom 18-23
+   Keywords: Celebration, stability, foundation
+   Chakras: Solar Plexus (Manipura), Root (Muladhara)
+   Energy Body: Physical body
+
+5. FIVE OF WANDS
+   Primary Element: Fire
+   Secondary Element: Fire
+   Constellation: Leo
+   Period: July 23 - August 22
+   Sephirah: Tiphareth
+   Planet: Sun
+   Jaygerian: Blossom 24-28
+   Keywords: Competition, challenge, conflict
+   Chakras: Solar Plexus (Manipura), Heart (Anahata)
+   Energy Body: Physical body
+
+6. SIX OF WANDS
+   Primary Element: Fire
+   Secondary Element: Ether
+   Constellation: Leo
+   Period: July 23 - August 22
+   Sephirah: Netzach
+   Planet: Sun
+   Jaygerian: Zephyr 1-5
+   Keywords: Victory, success, recognition
+   Chakras: Solar Plexus (Manipura), Crown (Sahasrara)
+   Energy Body: Physical body, Causal body
+
+7. SEVEN OF WANDS
+   Primary Element: Fire
+   Secondary Element: Air
+   Constellation: Sagittarius
+   Period: November 22 - December 21
+   Sephirah: Hod
+   Planet: Jupiter
+   Jaygerian: Zephyr 6-11
+   Keywords: Courage, defense, standing ground
+   Chakras: Solar Plexus (Manipura), Throat (Vishuddha)
+   Energy Body: Physical body, Mental body
+
+8. EIGHT OF WANDS
+   Primary Element: Fire
+   Secondary Element: Fire
+   Constellation: Sagittarius
+   Period: November 22 - December 21
+   Sephirah: Yesod
+   Planet: Jupiter
+   Jaygerian: Zephyr 12-17
+   Keywords: Swift action, movement, progress
+   Chakras: Solar Plexus (Manipura), Third Eye (Ajna)
+   Energy Body: Physical body
+
+9. NINE OF WANDS
+   Primary Element: Fire
+   Secondary Element: Earth
+   Constellation: Sagittarius
+   Period: November 22 - December 21
+   Sephirah: Malkuth
+   Planet: Jupiter
+   Jaygerian: Zephyr 18-23
+   Keywords: Perseverance, resilience, strength
+   Chakras: Solar Plexus (Manipura), Root (Muladhara)
+   Energy Body: Physical body
+
+10. TEN OF WANDS
+    Primary Element: Fire
+    Secondary Element: Fire
+    Constellation: Sagittarius
+    Period: November 22 - December 21
+    Sephirah: Malkuth
+    Planet: Jupiter
+    Jaygerian: Zephyr 24-28
+    Keywords: Burden, responsibility, completion
+    Chakras: Solar Plexus (Manipura), Root (Muladhara)
+    Energy Body: Physical body
+
+Associated Major Arcana (3):
+1. The Magician (Creative power)
+   Jaygerian: Solis 1-5
+
+2. Strength (Inner fire)
+   Jaygerian: Solis 6-11
+
+3. The Tower (Sudden transformation)
+   Jaygerian: Solis 12-17
+
+Seasonal Cards (2):
+1. BELTANE
+   Element: Fire
+   Date: May 1
+   Jaygerian: Zephyr 1
+   Keywords: Fire festival, fertility, passion
+   Chakras: Solar Plexus (Manipura), Sacral (Svadhisthana)
+   Energy Body: Physical body
+   Special Properties: Gateway to summer, fire blessing
+
+2. LUGHNASADH
+   Element: Fire
+   Date: August 1
+   Jaygerian: Radiance 1
+   Keywords: First harvest, fire of transformation
+   Chakras: Solar Plexus (Manipura), Root (Muladhara)
+   Energy Body: Physical body
+   Special Properties: Harvest blessing, fire transformation
+
+PENTACLES (EARTH) - 15 Cards
+---------------------------
+
+Minor Arcana (10):
+1. ACE OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Earth
+   Constellation: Taurus
+   Period: May 14 - June 19
+   Sephirah: Malkuth
+   Planet: Venus
+   Jaygerian: Solis 18-23
+   Keywords: Material potential, abundance, grounding
+   Chakras: Root (Muladhara), Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+2. TWO OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Water
+   Constellation: Taurus
+   Period: May 14 - June 19
+   Sephirah: Chokhmah
+   Planet: Venus
+   Jaygerian: Solis 24-28, Radiance 1-2
+   Keywords: Balance, adaptability, juggling priorities
+   Chakras: Root (Muladhara), Heart (Anahata)
+   Energy Body: Physical body, Emotional body
+
+3. THREE OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Ether
+   Constellation: Taurus
+   Period: May 14 - June 19
+   Sephirah: Binah
+   Planet: Venus
+   Jaygerian: Radiance 3-8
+   Keywords: Skill, craftsmanship, collaboration
+   Chakras: Root (Muladhara), Crown (Sahasrara)
+   Energy Body: Physical body, Causal body
+
+4. FOUR OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Earth
+   Constellation: Virgo
+   Period: August 23 - September 22
+   Sephirah: Chesed
+   Planet: Mercury
+   Jaygerian: Radiance 9-14
+   Keywords: Security, stability, material foundation
+   Chakras: Root (Muladhara), Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+5. FIVE OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Air
+   Constellation: Virgo
+   Period: August 23 - September 22
+   Sephirah: Gevurah
+   Planet: Mercury
+   Jaygerian: Radiance 15-20
+   Keywords: Hardship, material loss, spiritual wealth
+   Chakras: Root (Muladhara), Throat (Vishuddha)
+   Energy Body: Physical body, Mental body
+
+6. SIX OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Ether
+   Constellation: Virgo
+   Period: August 23 - September 22
+   Sephirah: Tiphareth
+   Planet: Mercury
+   Jaygerian: Radiance 21-26
+   Keywords: Generosity, charity, material exchange
+   Chakras: Root (Muladhara), Crown (Sahasrara)
+   Energy Body: Physical body, Causal body
+
+7. SEVEN OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Water
+   Constellation: Capricorn
+   Period: December 22 - January 19
+   Sephirah: Netzach
+   Planet: Saturn
+   Jaygerian: Radiance 27-28, Ember 1-4
+   Keywords: Patience, investment, long-term vision
+   Chakras: Root (Muladhara), Heart (Anahata)
+   Energy Body: Physical body, Emotional body
+
+8. EIGHT OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Earth
+   Constellation: Capricorn
+   Period: December 22 - January 19
+   Sephirah: Hod
+   Planet: Saturn
+   Jaygerian: Ember 5-10
+   Keywords: Mastery, diligence, attention to detail
+   Chakras: Root (Muladhara), Solar Plexus (Manipura)
+   Energy Body: Physical body
+
+9. NINE OF PENTACLES
+   Primary Element: Earth
+   Secondary Element: Ether
+   Constellation: Capricorn
+   Period: December 22 - January 19
+   Sephirah: Yesod
+   Planet: Saturn
+   Jaygerian: Ember 11-16
+   Keywords: Abundance, luxury, material success
+   Chakras: Root (Muladhara), Crown (Sahasrara)
+   Energy Body: Physical body, Causal body
+
+10. TEN OF PENTACLES
+    Primary Element: Earth
+    Secondary Element: Earth
+    Constellation: Capricorn
+    Period: December 22 - January 19
+    Sephirah: Malkuth
+    Planet: Saturn
+    Jaygerian: Ember 17-22
+    Keywords: Wealth, legacy, material completion
+    Chakras: Root (Muladhara), Solar Plexus (Manipura)
+    Energy Body: Physical body
+
+Associated Major Arcana (3):
+1. The Empress (Abundance)
+   Jaygerian: Ember 23-28
+
+2. The Hierophant (Tradition)
+   Jaygerian: Harvest 1-5
+
+3. The Devil (Material attachment)
+   Jaygerian: Harvest 6-11
+
+Seasonal Cards (2):
+1. IMBOLC
+   Element: Earth
+   Date: February 1
+   Jaygerian: Twilight 11
+   Keywords: Earth awakening, first stirrings
+   Chakras: Root (Muladhara), Heart (Anahata)
+   Energy Body: Physical body
+   Special Properties: Earth blessing, new growth
+
+2. FIRST FROST
+   Element: Earth
+   Date: October 15 (approximate)
+   Jaygerian: Equinox 15
+   Keywords: Earth's preparation, material completion
+   Chakras: Root (Muladhara), Solar Plexus (Manipura)
+   Energy Body: Physical body
+   Special Properties: Earth's rest, material wisdom
+
+SWORDS (AIR) - 15 Cards
+----------------------
+
+Minor Arcana (10):
+1. ACE OF SWORDS
+   Primary Element: Air
+   Secondary Element: Air
+   Constellation: Gemini
+   Period: June 20 - July 20
+   Sephirah: Tiphareth
+   Planet: Mercury
+   Jaygerian: Harvest 12-17
+   Keywords: Mental clarity, truth, insight
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Mental body
+
+2. TWO OF SWORDS
+   Primary Element: Air
+   Secondary Element: Water
+   Constellation: Gemini
+   Period: June 20 - July 20
+   Sephirah: Chokhmah
+   Planet: Mercury
+   Jaygerian: Harvest 18-23
+   Keywords: Choice, decision, balance
+   Chakras: Throat (Vishuddha), Heart (Anahata)
+   Energy Body: Mental body, Emotional body
+
+3. THREE OF SWORDS
+   Primary Element: Air
+   Secondary Element: Ether
+   Constellation: Gemini
+   Period: June 20 - July 20
+   Sephirah: Binah
+   Planet: Mercury
+   Jaygerian: Harvest 24-28, Equinox 1-3
+   Keywords: Heartbreak, sorrow, emotional pain
+   Chakras: Throat (Vishuddha), Crown (Sahasrara)
+   Energy Body: Mental body, Causal body
+
+4. FOUR OF SWORDS
+   Primary Element: Air
+   Secondary Element: Air
+   Constellation: Libra
+   Period: September 23 - October 22
+   Sephirah: Chesed
+   Planet: Venus
+   Jaygerian: Equinox 4-9
+   Keywords: Rest, recovery, contemplation
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Mental body
+
+5. FIVE OF SWORDS
+   Primary Element: Air
+   Secondary Element: Fire
+   Constellation: Libra
+   Period: September 23 - October 22
+   Sephirah: Gevurah
+   Planet: Venus
+   Jaygerian: Equinox 10-15
+   Keywords: Conflict, defeat, loss
+   Chakras: Throat (Vishuddha), Solar Plexus (Manipura)
+   Energy Body: Mental body, Physical body
+
+6. SIX OF SWORDS
+   Primary Element: Air
+   Secondary Element: Ether
+   Constellation: Libra
+   Period: September 23 - October 22
+   Sephirah: Tiphareth
+   Planet: Venus
+   Jaygerian: Equinox 16-21
+   Keywords: Transition, change, moving forward
+   Chakras: Throat (Vishuddha), Crown (Sahasrara)
+   Energy Body: Mental body, Causal body
+
+7. SEVEN OF SWORDS
+   Primary Element: Air
+   Secondary Element: Water
+   Constellation: Aquarius
+   Period: January 20 - February 18
+   Sephirah: Netzach
+   Planet: Uranus
+   Jaygerian: Equinox 22-27
+   Keywords: Deception, strategy, cunning
+   Chakras: Throat (Vishuddha), Heart (Anahata)
+   Energy Body: Mental body, Emotional body
+
+8. EIGHT OF SWORDS
+   Primary Element: Air
+   Secondary Element: Air
+   Constellation: Aquarius
+   Period: January 20 - February 18
+   Sephirah: Hod
+   Planet: Uranus
+   Jaygerian: Equinox 28, Frost 1-4
+   Keywords: Restriction, limitation, self-imposed barriers
+   Chakras: Throat (Vishuddha), Third Eye (Ajna)
+   Energy Body: Mental body
+
+9. NINE OF SWORDS
+   Primary Element: Air
+   Secondary Element: Ether
+   Constellation: Aquarius
+   Period: January 20 - February 18
+   Sephirah: Yesod
+   Planet: Uranus
+   Jaygerian: Frost 5-10
+   Keywords: Anxiety, worry, mental anguish
+   Chakras: Throat (Vishuddha), Crown (Sahasrara)
+   Energy Body: Mental body, Causal body
+
+10. TEN OF SWORDS
+    Primary Element: Air
+    Secondary Element: Air
+    Constellation: Aquarius
+    Period: January 20 - February 18
+    Sephirah: Malkuth
+    Planet: Uranus
+    Jaygerian: Frost 11-16
+    Keywords: Endings, betrayal, rock bottom
+    Chakras: Throat (Vishuddha), Third Eye (Ajna)
+    Energy Body: Mental body
+
+Associated Major Arcana (3):
+1. The High Priestess (Intuition)
+   Jaygerian: Frost 17-22
+
+2. The Hanged Man (Sacrifice)
+   Jaygerian: Frost 23-28
+
+3. Death (Transformation)
+   Jaygerian: Yule 1-5
+
+Seasonal Cards (2):
+1. SPRING EQUINOX (OSTARA)
+   Element: Air
+   Date: March 20
+   Jaygerian: Aurora 1
+   Keywords: Air of new beginnings, balance
+   Chakras: Throat (Vishuddha), Heart (Anahata)
+   Energy Body: Mental body
+   Special Properties: Balance blessing, new wind
+
+2. AUTUMN EQUINOX (MABON)
+   Element: Air
+   Date: September 22
+   Jaygerian: Equinox 22
+   Keywords: Air of balance, harvest wind
+   Chakras: Throat (Vishuddha), Solar Plexus (Manipura)
+   Energy Body: Mental body
+   Special Properties: Balance blessing, wind wisdom
+
+CUPS (WATER) - 15 Cards
+----------------------
+
+Minor Arcana (10):
+1. ACE OF CUPS
+   Primary Element: Water
+   Secondary Element: Water
+   Constellation: Cancer
+   Period: June 21 - July 22
+   Sephirah: Binah
+   Planet: Moon
+   Jaygerian: Aurora 2-7
+   Keywords: Emotional potential, intuition, flow
+   Chakras: Heart (Anahata), Sacral (Svadhisthana)
+   Energy Body: Emotional body
+
+2. TWO OF CUPS
+   Primary Element: Water
+   Secondary Element: Ether
+   Constellation: Cancer
+   Period: June 21 - July 22
+   Sephirah: Chokhmah
+   Planet: Moon
+   Jaygerian: Aurora 8-13
+   Keywords: Partnership, connection, emotional bond
+   Chakras: Heart (Anahata), Crown (Sahasrara)
+   Energy Body: Emotional body, Causal body
+
+3. THREE OF CUPS
+   Primary Element: Water
+   Secondary Element: Water
+   Constellation: Cancer
+   Period: June 21 - July 22
+   Sephirah: Binah
+   Planet: Moon
+   Jaygerian: Aurora 14-19
+   Keywords: Celebration, joy, friendship
+   Chakras: Heart (Anahata), Sacral (Svadhisthana)
+   Energy Body: Emotional body
+
+4. FOUR OF CUPS
+   Primary Element: Water
+   Secondary Element: Air
+   Constellation: Scorpio
+   Period: October 23 - November 21
+   Sephirah: Chesed
+   Planet: Pluto
+   Jaygerian: Aurora 20-25
+   Keywords: Discontent, apathy, missed opportunities
+   Chakras: Heart (Anahata), Throat (Vishuddha)
+   Energy Body: Emotional body, Mental body
+
+5. FIVE OF CUPS
+   Primary Element: Water
+   Secondary Element: Ether
+   Constellation: Scorpio
+   Period: October 23 - November 21
+   Sephirah: Gevurah
+   Planet: Pluto
+   Jaygerian: Aurora 26-28, Blossom 1-2
+   Keywords: Loss, regret, disappointment
+   Chakras: Heart (Anahata), Crown (Sahasrara)
+   Energy Body: Emotional body, Causal body
+
+6. SIX OF CUPS
+   Primary Element: Water
+   Secondary Element: Water
+   Constellation: Scorpio
+   Period: October 23 - November 21
+   Sephirah: Tiphareth
+   Planet: Pluto
+   Jaygerian: Blossom 3-8
+   Keywords: Nostalgia, innocence, childhood memories
+   Chakras: Heart (Anahata), Sacral (Svadhisthana)
+   Energy Body: Emotional body
+
+7. SEVEN OF CUPS
+   Primary Element: Water
+   Secondary Element: Air
+   Constellation: Pisces
+   Period: February 19 - March 20
+   Sephirah: Netzach
+   Planet: Neptune
+   Jaygerian: Blossom 9-14
+   Keywords: Illusion, fantasy, wishful thinking
+   Chakras: Heart (Anahata), Throat (Vishuddha)
+   Energy Body: Emotional body, Mental body
+
+8. EIGHT OF CUPS
+   Primary Element: Water
+   Secondary Element: Ether
+   Constellation: Pisces
+   Period: February 19 - March 20
+   Sephirah: Hod
+   Planet: Neptune
+   Jaygerian: Blossom 15-20
+   Keywords: Abandonment, walking away, emotional departure
+   Chakras: Heart (Anahata), Crown (Sahasrara)
+   Energy Body: Emotional body, Causal body
+
+9. NINE OF CUPS
+   Primary Element: Water
+   Secondary Element: Water
+   Constellation: Pisces
+   Period: February 19 - March 20
+   Sephirah: Yesod
+   Planet: Neptune
+   Jaygerian: Blossom 21-26
+   Keywords: Wish fulfillment, contentment, emotional satisfaction
+   Chakras: Heart (Anahata), Sacral (Svadhisthana)
+   Energy Body: Emotional body
+
+10. TEN OF CUPS
+    Primary Element: Water
+    Secondary Element: Ether
+    Constellation: Pisces
+    Period: February 19 - March 20
+    Sephirah: Malkuth
+    Planet: Neptune
+    Jaygerian: Blossom 27-28, Zephyr 1-3
+    Keywords: Emotional completion, family harmony, lasting happiness
+    Chakras: Heart (Anahata), Crown (Sahasrara)
+    Energy Body: Emotional body, Causal body
+
+Associated Major Arcana (3):
+1. The Lovers (Love)
+   Jaygerian: Zephyr 4-9
+
+2. The Star (Hope)
+   Jaygerian: Zephyr 10-15
+
+3. The Moon (Emotional mystery)
+   Jaygerian: Zephyr 16-21
+
+Seasonal Cards (2):
+1. SPRING EQUINOX (OSTARA)
+   Element: Water
+   Date: March 20
+   Jaygerian: Aurora 1
+   Keywords: Waters of renewal, emotional awakening
+   Chakras: Heart (Anahata), Sacral (Svadhisthana)
+   Energy Body: Emotional body
+   Special Properties: Water blessing, emotional renewal
+
+2. AUTUMN EQUINOX (MABON)
+   Element: Water
+   Date: September 22
+   Jaygerian: Equinox 22
+   Keywords: Waters of reflection, emotional harvest
+   Chakras: Heart (Anahata), Third Eye (Ajna)
+   Energy Body: Emotional body
+   Special Properties: Water wisdom, emotional balance
+
+DECK STATISTICS
+--------------
+Total Cards: 73
+- Major Arcana: 22 cards
+- Minor Arcana: 50 cards (10 per suit)
+- Seasonal Cards: 8 cards
+- Cards per suit: 15 (13 regular + 2 seasonal)
+- Days per card: ~4.98 days (364 ÷ 73)
+
+ELEMENTAL CORRESPONDENCES
+------------------------
+
+ETHER
+- Color: Purple/White/Iridescent
+- Direction: Center/Above/Below
+- Season: Transitions
+- Time: Dawn/Dusk
+- Symbol: ✧
+- Hebrew Letter: א (Aleph)
+- Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+- Energy Body: Causal body, Atmic body
+
+FIRE
+- Color: Red/Gold
+- Direction: South
+- Season: Summer
+- Time: Noon
+- Symbol: △
+- Hebrew Letter: ש (Shin)
+- Chakras: Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+WATER
+- Color: Blue/Silver
+- Direction: West
+- Season: Autumn
+- Time: Sunset
+- Symbol: ▽
+- Hebrew Letter: מ (Mem)
+- Chakras: Heart (Anahata), Solar Plexus (Manipura)
+- Energy Body: Emotional body
+
+AIR
+- Color: Yellow/White
+- Direction: East
+- Season: Spring
+- Time: Sunrise
+- Symbol: □
+- Hebrew Letter: א (Aleph)
+- Chakras: Throat (Vishuddha), Third Eye (Ajna)
+- Energy Body: Emotional body
+
+EARTH
+- Color: Green/Brown
+- Direction: North
+- Season: Winter
+- Time: Midnight
+- Symbol: ○
+- Hebrew Letter: ת (Tav)
+- Chakras: Root (Muladhara), Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+SEPHIROT ASSOCIATIONS
+--------------------
+
+KETER (Crown)
+- Element: Ether
+- Planet: Neptune
+- Cards: Fool, Ace of Stars
+- Symbol: ·
+- Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+- Energy Body: Causal body, Atmic body
+
+CHOKHMAH (Wisdom)
+- Element: Fire/Ether
+- Planet: Uranus
+- Cards: Magician, King of Wands
+- Symbol: י
+- Chakras: Throat (Vishuddha), Third Eye (Ajna)
+- Energy Body: Emotional body
+
+[... Continue with all Sephirot]
+
+CONSTELLATION PERIODS
+-------------------
+
+FIRE ELEMENT
+-----------
+ARIES: April 19 - May 13
+- Element: Fire
+- Cards: Wands (1-3)
+- Planet: Mars
+- Chakras: Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+LEO: July 23 - August 22
+- Element: Fire
+- Cards: Wands (4-6)
+- Planet: Sun
+- Chakras: Solar Plexus (Manipura), Heart (Anahata)
+- Energy Body: Physical body
+
+SAGITTARIUS: November 22 - December 21
+- Element: Fire
+- Cards: Wands (7-10)
+- Planet: Jupiter
+- Chakras: Solar Plexus (Manipura), Third Eye (Ajna)
+- Energy Body: Physical body
+
+EARTH ELEMENT
+------------
+TAURUS: May 14 - June 19
+- Element: Earth
+- Cards: Pentacles (1-3)
+- Planet: Venus
+- Chakras: Root (Muladhara), Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+VIRGO: August 23 - September 22
+- Element: Earth
+- Cards: Pentacles (4-6)
+- Planet: Mercury
+- Chakras: Root (Muladhara), Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+CAPRICORN: December 22 - January 19
+- Element: Earth
+- Cards: Pentacles (7-10)
+- Planet: Saturn
+- Chakras: Root (Muladhara), Solar Plexus (Manipura)
+- Energy Body: Physical body
+
+AIR ELEMENT
+----------
+GEMINI: June 20 - July 20
+- Element: Air
+- Cards: Swords (1-3)
+- Planet: Mercury
+- Chakras: Throat (Vishuddha), Third Eye (Ajna)
+- Energy Body: Mental body
+
+LIBRA: September 23 - October 22
+- Element: Air
+- Cards: Swords (4-6)
+- Planet: Venus
+- Chakras: Throat (Vishuddha), Heart (Anahata)
+- Energy Body: Mental body
+
+AQUARIUS: January 20 - February 18
+- Element: Air
+- Cards: Swords (7-10)
+- Planet: Uranus
+- Chakras: Throat (Vishuddha), Third Eye (Ajna)
+- Energy Body: Mental body
+
+WATER ELEMENT
+------------
+CANCER: June 21 - July 22
+- Element: Water
+- Cards: Cups (1-3)
+- Planet: Moon
+- Chakras: Heart (Anahata), Sacral (Svadhisthana)
+- Energy Body: Emotional body
+
+SCORPIO: October 23 - November 21
+- Element: Water
+- Cards: Cups (4-6)
+- Planet: Pluto
+- Chakras: Heart (Anahata), Sacral (Svadhisthana)
+- Energy Body: Emotional body
+
+PISCES: February 19 - March 20
+- Element: Water
+- Cards: Cups (7-10)
+- Planet: Neptune
+- Chakras: Heart (Anahata), Third Eye (Ajna)
+- Energy Body: Emotional body
+
+ETHER ELEMENT
+------------
+OPHIUCHUS: November 29 - December 17
+- Element: Ether
+- Cards: Stars (1-5)
+- Planet: None (Galactic Center)
+- Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+- Energy Body: Causal body, Atmic body
+
+GALACTIC CENTER: Year-round influence
+- Element: Ether
+- Cards: Stars (6-10)
+- Planet: None (Galactic Center)
+- Chakras: Crown (Sahasrara), Soul Star, Stellar Gateway
+- Energy Body: Causal body, Atmic body
+
+READING LAYOUTS
+--------------
+
+COSMIC CROSS
+- Position 1: Ethereal Influence (Stars suit)
+- Position 2: Mental State (Swords)
+- Position 3: Emotional Flow (Cups)
+- Position 4: Physical Manifestation (Pentacles)
+- Position 5: Spiritual Direction (Wands)
+- Center: Integration Point
+
+TREE OF LIFE SPREAD
+- 10 positions corresponding to Sephirot
+- 22 connecting paths for Major Arcana
+- Shows energy flow and blockages
+
+[Additional layouts to be developed...]
+
+Note: This is a living document and will be updated as the system is refined and tested in practice.
+
+CHAKRA SYSTEM
+------------
+
+PRIMARY CHAKRAS (7)
+------------------
+
+1. CROWN CHAKRA (Sahasrara)
+   Element: Ether
+   Color: Violet/White/Gold
+   Location: Top of head
+   Associated Cards: The Fool, The World
+   Planets: Uranus, Neptune
+   Body Systems: Nervous system, pineal gland
+   Keywords: Spirituality, enlightenment, cosmic consciousness
+
+2. THIRD EYE CHAKRA (Ajna)
+   Element: Light
+   Color: Indigo
+   Location: Between eyebrows
+   Associated Cards: The High Priestess, The Moon
+   Planets: Neptune, Moon
+   Body Systems: Pituitary gland, eyes
+   Keywords: Intuition, wisdom, inner vision
+
+3. THROAT CHAKRA (Vishuddha)
+   Element: Ether
+   Color: Blue
+   Location: Throat
+   Associated Cards: The Hierophant, The Star
+   Planets: Mercury, Uranus
+   Body Systems: Thyroid, vocal cords
+   Keywords: Communication, expression, truth
+
+4. HEART CHAKRA (Anahata)
+   Element: Air
+   Color: Green/Pink
+   Location: Center of chest
+   Associated Cards: The Lovers, The Sun
+   Planets: Venus, Sun
+   Body Systems: Heart, lungs, thymus
+   Keywords: Love, compassion, balance
+
+5. SOLAR PLEXUS CHAKRA (Manipura)
+   Element: Fire
+   Color: Yellow
+   Location: Upper abdomen
+   Associated Cards: The Emperor, Strength
+   Planets: Mars, Sun
+   Body Systems: Digestive system, pancreas
+   Keywords: Power, will, confidence
+
+6. SACRAL CHAKRA (Svadhisthana)
+   Element: Water
+   Color: Orange
+   Location: Lower abdomen
+   Associated Cards: The Empress, The Moon
+   Planets: Moon, Venus
+   Body Systems: Reproductive organs, kidneys
+   Keywords: Creativity, emotions, pleasure
+
+7. ROOT CHAKRA (Muladhara)
+   Element: Earth
+   Color: Red
+   Location: Base of spine
+   Associated Cards: The Devil, The World
+   Planets: Saturn, Mars
+   Body Systems: Bones, adrenal glands
+   Keywords: Grounding, survival, stability
+
+HIGHER CHAKRAS (5)
+-----------------
+
+8. SOUL STAR CHAKRA
+   Element: Ether
+   Color: White
+   Location: Above crown
+   Associated Cards: The Star, Judgment
+   Planets: Uranus, Neptune
+   Keywords: Soul purpose, cosmic connection
+
+9. STELLAR GATEWAY CHAKRA
+   Element: Ether
+   Color: Gold
+   Location: Above soul star
+   Associated Cards: The World, The Fool
+   Planets: Neptune, Uranus
+   Keywords: Universal consciousness, divine connection
+
+10. EARTH STAR CHAKRA
+    Element: Earth
+    Color: Black/Brown
+    Location: Below feet
+    Associated Cards: The World, The Devil
+    Planets: Saturn, Earth
+    Keywords: Earth connection, grounding
+
+11. CAUSAL CHAKRA
+    Element: Ether
+    Color: Gold
+    Location: Behind heart
+    Associated Cards: The Sun, The Star
+    Planets: Sun, Jupiter
+    Keywords: Karma, soul purpose
+
+12. HIGHER HEART CHAKRA
+    Element: Ether
+    Color: Pink/Gold
+    Location: Above heart
+    Associated Cards: The Lovers, The Star
+    Planets: Venus, Sun
+    Keywords: Unconditional love, compassion
+
+ENERGY BODIES
+------------
+
+1. PHYSICAL BODY
+   Element: Earth
+   Associated Cards: The Devil, The World
+   Chakras: Root, Sacral, Solar Plexus
+   Keywords: Material manifestation, physical health
+
+2. ETHERIC BODY
+   Element: Ether
+   Associated Cards: The Star, The Moon
+   Chakras: All primary chakras
+   Keywords: Life force, vitality
+
+3. EMOTIONAL BODY
+   Element: Water
+   Associated Cards: The Moon, The High Priestess
+   Chakras: Sacral, Heart
+   Keywords: Feelings, relationships
+
+4. MENTAL BODY
+   Element: Air
+   Associated Cards: The Magician, The Hierophant
+   Chakras: Throat, Third Eye
+   Keywords: Thoughts, communication
+
+5. CAUSAL BODY
+   Element: Ether
+   Associated Cards: The Fool, The World
+   Chakras: Crown, Soul Star
+   Keywords: Soul purpose, karma
+
+6. BUDDHIC BODY
+   Element: Light
+   Associated Cards: The Star, Judgment
+   Chakras: Higher Heart, Stellar Gateway
+   Keywords: Spiritual wisdom, unity
+
+7. ATMIC BODY
+   Element: Pure Spirit
+   Associated Cards: The Fool, The World
+   Chakras: All higher chakras
+   Keywords: Divine essence, pure consciousness
+
+CHAKRA HEALING CORRESPONDENCES
+----------------------------
+
+CROWN CHAKRA
+- Healing Stones: Amethyst, Clear Quartz, Selenite
+- Essential Oils: Frankincense, Lavender, Lotus
+- Yoga Poses: Headstand, Meditation pose
+- Sound: Bija mantra "OM"
+- Affirmation: "I am connected to divine wisdom"
+
+THIRD EYE CHAKRA
+- Healing Stones: Lapis Lazuli, Amethyst, Moonstone
+- Essential Oils: Clary Sage, Juniper, Sandalwood
+- Yoga Poses: Child's pose, Forward fold
+- Sound: Bija mantra "SHAM"
+- Affirmation: "I trust my inner wisdom"
+
+[... Continue with all chakras] 
