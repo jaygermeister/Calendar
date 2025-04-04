@@ -66,20 +66,70 @@ def create_spread_visualization(spread_name: str, cards: List[TarotCard]) -> str
 
 def create_constellation_map(cards: Dict[str, TarotCard]) -> str:
     """Create a visual map of constellations and their associated cards."""
-    map_visual = "\n=== Constellation Map ===\n"
+    map_visual = "\n=== Constellation Map (Starting from Aurora 1) ===\n"
     
-    # Sort cards by duration
-    sorted_cards = sorted(
-        [card for card in cards.values() if card.constellation],
-        key=lambda x: x.duration_days or 0,
-        reverse=True
-    )
+    # Get calendar information
+    from .calendar import SolarCalendar
+    calendar = SolarCalendar()
     
-    for card in sorted_cards:
-        if card.constellation:
-            duration_bar = create_constellation_bar(card.duration_days or 0)
-            map_visual += f"\n{card.constellation}: {duration_bar} ({card.duration_days} days)"
+    # Define the order of constellations starting from Aurora 1 (March 21)
+    constellation_order = [
+        "Pisces",      # March 11 - April 18
+        "Aries",       # April 18 - May 13
+        "Taurus",      # May 13 - June 21
+        "Gemini",      # June 21 - July 20
+        "Cancer",      # July 20 - August 10
+        "Leo",         # August 10 - September 16
+        "Virgo",       # September 16 - October 30
+        "Libra",       # October 30 - November 23
+        "Scorpius",    # November 23 - November 29
+        "Ophiuchus",   # November 29 - December 17
+        "Sagittarius", # December 17 - January 20
+        "Capricornus", # January 20 - February 16
+        "Aquarius"     # February 16 - March 11
+    ]
+    
+    # Create the map
+    for constellation_name in constellation_order:
+        const_data = calendar.constellations[constellation_name]
+        start_month, start_day = const_data["start_date"]
+        end_month, end_day = const_data["end_date"]
+        duration = const_data["duration"]
+        
+        # Find the corresponding card
+        card = next((c for c in cards.values() if c.constellation == constellation_name), None)
+        
+        # Format Gregorian dates
+        start_date = f"{calendar.month_names[start_month]} {start_day}"
+        end_date = f"{calendar.month_names[end_month]} {end_day}"
+        
+        # Find corresponding 13-month calendar period
+        month_info = None
+        for key, month in calendar.months.items():
+            if isinstance(key, int):  # Regular months
+                month_start_str = month["dates"].split(" - ")[0]
+                month_start_month, month_start_day = calendar._parse_date(month_start_str)
+                
+                # Check if constellation starts during this month
+                if (start_month > month_start_month or 
+                    (start_month == month_start_month and start_day >= month_start_day)):
+                    month_info = month
+        
+        # Create duration bar
+        duration_bar = create_constellation_bar(duration)
+        
+        # Add to map
+        map_visual += f"\n{constellation_name}: {duration_bar} ({duration} days)"
+        map_visual += f"\nGregorian: {start_date} - {end_date}"
+        
+        if month_info:
+            map_visual += f"\n13-Month: {month_info['name']} {month_info['symbol']} ({month_info['dates']})"
+        
+        if card:
             map_visual += f"\nAssociated Card: {card.name}"
+            map_visual += f"\nElement: {card.element.value if card.element else 'N/A'}"
             map_visual += f"\nKeywords: {', '.join(card.keywords)}\n"
+        
+        map_visual += "-" * 40 + "\n"
     
     return map_visual 

@@ -100,11 +100,16 @@ class SolarCalendar:
     
     def get_current_month(self) -> Dict:
         """Get the current month based on Gregorian date."""
-        current_date = datetime.now(pytz.UTC)
+        current_date = datetime.now()
+        if current_date.tzinfo is None:
+            current_date = current_date.replace(tzinfo=pytz.UTC)
         return self._get_month_for_date(current_date)
     
     def _get_month_for_date(self, date: datetime) -> Dict:
         """Determine which month a given date falls into."""
+        if date.tzinfo is None:
+            date = date.replace(tzinfo=pytz.UTC)
+        
         # Convert the date to month and day
         month = date.month
         day = date.day

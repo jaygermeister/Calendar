@@ -12,7 +12,9 @@ class AstronomicalEvents:
     def get_upcoming_events(self, days_ahead: int = 30) -> List[Dict]:
         """Get upcoming astronomical events within the specified number of days."""
         events = []
-        current_date = datetime.now(pytz.UTC)
+        current_date = datetime.now()
+        if current_date.tzinfo is None:
+            current_date = current_date.replace(tzinfo=pytz.UTC)
         end_date = current_date + timedelta(days=days_ahead)
         
         # Calculate equinoxes and solstices
@@ -27,6 +29,11 @@ class AstronomicalEvents:
     
     def _get_equinox_solstice_events(self, start_date: datetime, end_date: datetime) -> List[Dict]:
         """Calculate equinox and solstice events between two dates."""
+        if start_date.tzinfo is None:
+            start_date = start_date.replace(tzinfo=pytz.UTC)
+        if end_date.tzinfo is None:
+            end_date = end_date.replace(tzinfo=pytz.UTC)
+        
         events = []
         current_year = start_date.year
         

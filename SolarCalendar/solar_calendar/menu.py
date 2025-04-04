@@ -5,6 +5,7 @@ Provides a user-friendly interface for exploring the tarot system.
 
 import sys
 from datetime import datetime
+import pytz
 from .calendar import SolarCalendar
 from .tarot_system import (
     MAJOR_ARCANA, MINOR_ARCANA, COURT_CARDS, SPECIAL_CARDS,
@@ -14,6 +15,10 @@ from .tarot_visualization import (
     visualize_card, create_spread_visualization,
     create_constellation_map, create_constellation_bar
 )
+
+def get_current_datetime():
+    """Get current datetime in UTC."""
+    return datetime.now(pytz.UTC)
 
 def clear_screen():
     """Clear the terminal screen."""
@@ -60,6 +65,8 @@ def get_current_cards():
         if current_card:
             print("\nCurrent Constellation Card:")
             print(visualize_card(current_card))
+            print(f"\nCurrent Constellation: {current_constellation}")
+            print(f"Duration in this constellation: {calendar.constellations[current_constellation]['duration']} days")
         
         input("\nPress Enter to return to the main menu...")
     except Exception as e:
@@ -209,17 +216,18 @@ def view_calendar_system():
         print("-"*60)
         
         calendar = SolarCalendar()
-        current_date = datetime.now()
+        current_date = datetime.now(pytz.UTC)  # Make current_date timezone-aware
         current_month = calendar.get_current_month()
         
         # Calculate current day in the 13-month calendar
         month_start = datetime.strptime(current_month['dates'].split(' - ')[0], '%B %d')
-        month_start = month_start.replace(year=current_date.year)
+        month_start = month_start.replace(year=current_date.year, tzinfo=pytz.UTC)  # Make month_start timezone-aware
         if month_start > current_date:
             month_start = month_start.replace(year=current_date.year - 1)
         
         days_in_month = current_month['days']
-        current_day = (current_date - month_start).days + 1
+        delta = current_date - month_start
+        current_day = delta.days + 1
         week_day = ((current_day - 1) % 7) + 1  # 1-7 for days of the week
         
         # Display current date information in both systems
@@ -272,6 +280,8 @@ def view_calendar_system():
         print("-"*40)
         for event in events:
             event_date = event['date']
+            if event_date.tzinfo is None:  # Make event_date timezone-aware if it isn't
+                event_date = event_date.replace(tzinfo=pytz.UTC)
             days_until = (event_date - current_date).days
             print(f"• {event['name']}: {event_date.strftime('%B %d, %Y')} ({days_until} days from now)")
         
