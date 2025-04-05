@@ -15,6 +15,7 @@ from .tarot_visualization import (
     visualize_card, create_spread_visualization,
     create_constellation_map, create_constellation_bar
 )
+from .magical_system import MagicalSystem, Sephirah
 
 def get_current_datetime():
     """Get current datetime in UTC."""
@@ -46,8 +47,9 @@ def print_menu():
     print("7. Perform a Reading - Get a reading based on current constellations")
     print("8. View Constellation Map - See the constellation layout and associations")
     print("9. View Calendar System - See the 13-month calendar and astronomical dates")
-    print("10. Exit - Close the program")
-    print("\nEnter your choice (1-10): ", end="")
+    print("10. View Magical System - Explore Tree of Life and magical practices")
+    print("11. Exit - Close the program")
+    print("\nEnter your choice (1-11): ", end="")
     sys.stdout.flush()
 
 def get_current_cards():
@@ -299,6 +301,77 @@ def view_calendar_system():
         print(f"\nError: {str(e)}")
         input("\nPress Enter to return to the main menu...")
 
+def view_magical_system():
+    """Display the magical system information."""
+    try:
+        clear_screen()
+        print_header()
+        print("Tree of Life Magical System")
+        print("-"*60)
+        
+        magical_system = MagicalSystem()
+        today = datetime.now(pytz.UTC)
+        today_path = magical_system.get_path_for_date(today)
+        
+        print("\n🌟 Today's Tree of Life Path:")
+        print("-"*40)
+        print(f"Path: {today_path.sephirah.value}")
+        print(f"Element: {today_path.element.value}")
+        print(f"Tarot Card: {today_path.tarot_card}")
+        print(f"Level: {today_path.consciousness_level.value}")
+        print(f"Barrier to Overcome: {today_path.barrier.value}")
+        print(f"Magical Practices: {', '.join([p.value for p in today_path.magical_practices])}")
+        print(f"Description: {today_path.description}")
+        print(f"Keywords: {', '.join(today_path.keywords)}")
+        
+        ritual_timing = magical_system.get_ritual_timing(today_path.sephirah)
+        print("\n⏰ Optimal Ritual Timing:")
+        print("-"*40)
+        print(f"Best Time: {ritual_timing['best_time']}")
+        print(f"Color: {ritual_timing['color']}")
+        print(f"Symbol: {ritual_timing['symbol']}")
+        print(f"Hebrew Letter: {ritual_timing['hebrew_letter']}")
+        
+        progression = magical_system.get_path_progression(today_path.sephirah)
+        print("\n📈 Recommended Path Progression:")
+        print("-"*40)
+        for i, sephirah in enumerate(progression, 1):
+            print(f"{i}. {sephirah.value}")
+        
+        print("\n🔮 Available Magical Practices:")
+        print("-"*40)
+        for practice in today_path.magical_practices:
+            print(f"• {practice.value}")
+            if practice.value == "Meditation":
+                print("  - Best done at dawn or dusk")
+                print("  - Focus on the path's keywords")
+                print("  - Visualize the path's symbol")
+            elif practice.value == "Visualization":
+                print("  - Use the path's color")
+                print("  - Work with the Hebrew letter")
+                print("  - Connect with the element")
+            elif practice.value == "Ritual":
+                print("  - Perform at the optimal time")
+                print("  - Use the corresponding colors and symbols")
+                print("  - Incorporate the element")
+            elif practice.value == "Breathwork":
+                print("  - Align with the element's energy")
+                print("  - Use the Hebrew letter as a mantra")
+                print("  - Focus on overcoming the barrier")
+            elif practice.value == "Divination":
+                print("  - Use the associated tarot card")
+                print("  - Connect with the path's energy")
+                print("  - Seek insight about the barrier")
+            elif practice.value == "Alchemy":
+                print("  - Work with the element's properties")
+                print("  - Transform the barrier's energy")
+                print("  - Use color correspondences")
+        
+        input("\nPress Enter to return to the main menu...")
+    except Exception as e:
+        print(f"\nError: {str(e)}")
+        input("\nPress Enter to return to the main menu...")
+
 def main():
     """Main menu loop."""
     while True:
@@ -328,6 +401,8 @@ def main():
             elif choice == "9":
                 view_calendar_system()
             elif choice == "10":
+                view_magical_system()
+            elif choice == "11":
                 print("\nThank you for using the Astronomical Tarot System!")
                 break
             else:
